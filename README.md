@@ -24,6 +24,18 @@ To explore the Gnome's Well project, ensure you have the correct version of the 
 
 ---
 
+##Controls
+
+1. Tilt the Device - Move left and right
+2. Up Button - Shorten rope
+3. Down Button - Leghten rope
+4. Menu Button - Pause / Return to menu
+5. New Game Button - Start the game
+6. Invimcible Checkbox - Make the gnome invincible
+
+---
+
+
 ## Development & Contribution
 
 While this project is primarily a demonstration and learning resource, feel free to fork the repository and experiment with the code!
